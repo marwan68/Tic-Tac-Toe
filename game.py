@@ -16,8 +16,7 @@ class Game:
         self.board = Board()
         self.menu = Menu()
 
-        # 0 -> Player 1
-        # 1 -> Player 2
+       
         self.current_player = 0
 
     def start(self):
