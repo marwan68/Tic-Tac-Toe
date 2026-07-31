@@ -4,7 +4,7 @@ A simple console-based Tic-Tac-Toe game built with **Python** using **Object-Ori
 
 ---
 
-## ✨ Features
+##  Features
 
 -  Two-player gameplay
 -  Input validation
