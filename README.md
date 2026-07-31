@@ -1,4 +1,4 @@
-# 🎮 Tic-Tac-Toe Game
+#  Tic-Tac-Toe Game
 
 A simple console-based Tic-Tac-Toe game built with **Python** using **Object-Oriented Programming (OOP)** principles.
 
@@ -6,18 +6,15 @@ A simple console-based Tic-Tac-Toe game built with **Python** using **Object-Ori
 
 ## ✨ Features
 
-- 👥 Two-player gameplay
-- 🔤 Custom player names
-- ❌⭕ Custom symbols
-- ✅ Input validation
-- 🏆 Win detection
-- 🤝 Draw detection
-- 🔄 Restart game
-- 🧩 Clean OOP design
+-  Two-player gameplay
+-  Input validation
+-  Win detection
+-  Draw detection
+-  Restart game
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Tic-Tac-Toe/
@@ -61,30 +58,4 @@ python main.py
 
 ---
 
-## 🛠 Technologies Used
 
-- Python 3
-- Object-Oriented Programming (OOP)
-- Git
-- GitHub
-
----
-
-## 📖 What I Learned
-
-During this project I practiced:
-
-- Designing classes using OOP
-- Splitting a project into multiple modules
-- Working with lists and loops
-- Input validation
-- Game logic implementation
-- Using Git & GitHub for version control
-
----
-
-## 👨‍💻 Author
-
-**Marwan Mohamed**
-
-GitHub: https://github.com/marwan68
